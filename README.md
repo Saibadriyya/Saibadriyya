@@ -1,11 +1,11 @@
-#  velaga shanmukh
+#  Saibadriyya
 ## Data Analyst
 
 ![Profile GIF](https://user-images.githubusercontent.com/12345678/animated-profile.gif) <!-- Replace this URL with the link to your GIF -->
 
 ---
 
-### Hi 👋, I'm  velaga shanmukh
+### Hi 👋, I'm  Saibadriyya
 
 I'm a passionate developer from India, skilled in both front-end and data analytics tools.
 
@@ -15,7 +15,7 @@ I'm a passionate developer from India, skilled in both front-end and data analyt
 ---
 
 ### Connect with me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/velaga-shanmukh/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sai-badriyya-mylapilli-b48643294/)
 
 ---
 
