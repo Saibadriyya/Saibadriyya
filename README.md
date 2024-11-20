@@ -9,7 +9,7 @@
 
 I'm a passionate developer from India, skilled in both front-end and data analytics tools.
 
-- 🌐 **All of my projects** are available at [[(https://saibadriyya.github.io/Developer-Portfolio/)](https://saibadriyya.github.io/Developer-Portfolio/)]
+- 🌐 **All of my projects** are available at ([https://saibadriyya.github.io/Developer-Portfolio/](https://saibadriyya.github.io/Developer-Portfolio/)
 - 📧 **How to reach me**: [mylapillisaibadriyya@gmail.com](mailto:mylapillisaibadriyya@gmail.com)
 
 ---
