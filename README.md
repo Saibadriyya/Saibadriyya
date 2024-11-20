@@ -1,7 +1,7 @@
 #  Saibadriyya
 ## Data Analyst
 
-![Profile GIF](https://user-images.githubusercontent.com/12345678/animated-profile.gif) <!-- Replace this URL with the link to your GIF -->
+![Profile GIF](display2.gif) <!-- Replace this URL with the link to your GIF -->
 
 ---
 
