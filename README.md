@@ -1,5 +1,5 @@
 #  Saibadriyya
-## Data Analyst
+## Developer
 
 ![Profile GIF](display2.gif) <!-- Replace this URL with the link to your GIF -->
 
